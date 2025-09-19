@@ -20,7 +20,7 @@ function CropRecommendation() {
       try {
         // ✅ CHANGE: Fetch weather data from backend
         const weatherRes = await axios.get(
-          `http://localhost:5000/api/weather?lat=${lat}&lon=${lon}`
+          `https://smart-crop-backend.onrender.com/api/weather?lat=${lat}&lon=${lon}`
         );
 
         const weatherData = {
