@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "home": "హోమ్",
+        "about": "గురించి",
+        "contact": "సంప్రదించండి"
+    },
+    "footer": {
+        "rights": "అన్ని హక్కులు రిజర్వ్ చేయబడ్డాయి"
+    },
+    "market": {
+        "intelligence": "మార్కెట్ సమాచారం",
+        "get_prices": "ధరలను చూడండి",
+        "select_crop": "పంటను ఎంచుకోండి"
+    },
+    "crops": {
+        "select": "పంటను ఎంచుకోండి",
+        "rice": "బియ్యం",
+        "wheat": "గోధుమలు",
+        "maize": "మొక్కజొన్న",
+        "groundnut": "పల్లీలు",
+        "sugarcane": "చెరకు",
+        "cotton": "పత్తి"
+    },
+    "table": {
+        "market": "మార్కెట్",
+        "state": "రాష్ట్రం",
+        "modal_price": "మోడల్ ధర",
+        "min_price": "కనిష్ట ధర",
+        "max_price": "గరిష్ట ధర"
+    }
+}

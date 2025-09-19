@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "home": "હોમ",
+        "about": "વિશે",
+        "contact": "સંપર્ક કરો"
+    },
+    "footer": {
+        "rights": "બધા હકો અનામત"
+    },
+    "market": {
+        "intelligence": "બજાર માહિતી",
+        "get_prices": "કિંમત જુઓ",
+        "select_crop": "પાક પસંદ કરો"
+    },
+    "crops": {
+        "select": "પાક પસંદ કરો",
+        "rice": "ચોખા",
+        "wheat": "ઘઉં",
+        "maize": "મકાઈ",
+        "groundnut": "શિંગદાણા",
+        "sugarcane": "ઉસ",
+        "cotton": "કપાસ"
+    },
+    "table": {
+        "market": "બજાર",
+        "state": "રાજ્ય",
+        "modal_price": "મોડલ ભાવ",
+        "min_price": "ન્યૂનતમ ભાવ",
+        "max_price": "ઉચ્ચતમ ભાવ"
+    }
+}

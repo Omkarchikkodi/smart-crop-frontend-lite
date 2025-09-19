@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "home": "घऱ",
+        "about": "बारे में",
+        "contact": "संपर्क करो"
+    },
+    "footer": {
+        "rights": "सभी हक राखे ग्या"
+    },
+    "market": {
+        "intelligence": "बाजार जाणकारी",
+        "get_prices": "भाव देखो",
+        "select_crop": "फसल चुनो"
+    },
+    "crops": {
+        "select": "फसल चुनो",
+        "rice": "धान",
+        "wheat": "गेहूं",
+        "maize": "मक्का",
+        "groundnut": "मूंगफली",
+        "sugarcane": "गन्ना",
+        "cotton": "कपास"
+    },
+    "table": {
+        "market": "बाजार",
+        "state": "राज्य",
+        "modal_price": "मॉडल भाव",
+        "min_price": "न्यूनतम भाव",
+        "max_price": "अधिकतम भाव"
+    }
+}

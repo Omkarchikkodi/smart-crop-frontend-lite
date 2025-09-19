@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "home": "मुखपृष्ठ",
+        "about": "आमच्याबद्दल",
+        "contact": "संपर्क"
+    },
+    "footer": {
+        "rights": "सर्व हक्क राखीव"
+    },
+    "market": {
+        "intelligence": "बाजार माहिती",
+        "get_prices": "किंमती पहा",
+        "select_crop": "पिक निवडा"
+    },
+    "crops": {
+        "select": "पिक निवडा",
+        "rice": "तांदूळ",
+        "wheat": "गहू",
+        "maize": "मका",
+        "groundnut": "शेंगदाणे",
+        "sugarcane": "ऊस",
+        "cotton": "कापूस"
+    },
+    "table": {
+        "market": "बाजार",
+        "state": "राज्य",
+        "modal_price": "मॉडल किंमत",
+        "min_price": "किमान किंमत",
+        "max_price": "कमाल किंमत"
+    }
+}

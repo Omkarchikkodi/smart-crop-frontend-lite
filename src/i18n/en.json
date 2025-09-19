@@ -1,0 +1,31 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "footer": {
+        "rights": "All Rights Reserved"
+    },
+    "market": {
+        "intelligence": "Market Intelligence",
+        "get_prices": "Get Prices",
+        "select_crop": "Select Crop"
+    },
+    "crops": {
+        "select": "Select Crop",
+        "rice": "Rice",
+        "wheat": "Wheat",
+        "maize": "Maize",
+        "groundnut": "Groundnut",
+        "sugarcane": "Sugarcane",
+        "cotton": "Cotton"
+    },
+    "table": {
+        "market": "Market",
+        "state": "State",
+        "modal_price": "Modal Price",
+        "min_price": "Min Price",
+        "max_price": "Max Price"
+    }
+}

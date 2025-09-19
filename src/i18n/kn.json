@@ -1,0 +1,31 @@
+{
+    "navbar": {
+                    "home": "ಮನೆ",
+                    "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+                    "contact": "ಸಂಪರ್ಕಿಸಿ"
+    },
+                "footer": {
+                    "rights": "ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ"
+    },
+                "market": {
+                    "intelligence": "ಮಾರುಕಟ್ಟೆ ಮಾಹಿತಿ",
+                    "get_prices": "ಬೆಲೆ ಪಡೆಯಿರಿ",
+                    "select_crop": "ಬೆಳೆ ಆಯ್ಕೆಮಾಡಿ"
+    },
+                "crops": {
+                    "select": "ಬೆಳೆ ಆಯ್ಕೆಮಾಡಿ",
+                    "rice": "ಅಕ್ಕಿ",
+                    "wheat": "ಗೋಧಿ",
+                    "maize": "ಮೆಕ್ಕೆಜೋಳ",
+                    "groundnut": "ಕಡಲೆಕಾಯಿ",
+                    "sugarcane": "ಕಬ್ಬು",
+                    "cotton": "ಹತ್ತಿ"
+    },
+                "table": {
+                    "market": "ಮಾರುಕಟ್ಟೆ",
+                    "state": "ರಾಜ್ಯ",
+                    "modal_price": "ಮಾಧ್ಯಮ ಬೆಲೆ",
+                    "min_price": "ಕನಿಷ್ಠ ಬೆಲೆ",
+                    "max_price": "ಗರಿಷ್ಠ ಬೆಲೆ"
+    }
+}
