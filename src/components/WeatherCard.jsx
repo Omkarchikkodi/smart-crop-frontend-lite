@@ -79,7 +79,7 @@ const WeatherCard = ({ lang = "en" }) => {
         (pos) => {
           const { latitude, longitude } = pos.coords;
           console.log(`${latitude} and ${longitude}`);
-          fetch(`http://localhost:5000/api/weather?lat=${latitude}&lon=${longitude}`)
+          fetch(`https://smart-crop-backend.onrender.com/api/weather?lat=${latitude}&lon=${longitude}`)
             .then((res) => res.json())
             .then((data) => {
               if (data.success) setWeather(data.data);
