@@ -23,7 +23,12 @@ function App() {
           <Body />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <WeatherCard />
+          <div className="p-4 bg-white rounded-xl shadow-md">
+            <h2 className="text-xl font-bold mb-2">🌍 Hubli</h2>
+            <p>🌡️ 26.7°C</p>
+            <p>☁️ overcast clouds</p>
+            <p>💧 Humidity: 78%</p>
+          </div>
           <CropRecommendation />
           <NpkRecommendation />
           <Alerts />
