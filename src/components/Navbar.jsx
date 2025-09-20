@@ -16,17 +16,6 @@ export default function Navbar() {
       <div>{t("navbar.about")}</div>
       <div>{t("navbar.contact")}</div>
 
-      {/* Language Selector */}
-      <select
-        onChange={(e) => changeLanguage(e.target.value)}
-        className="text-black p-1 rounded"
-      >
-        <option value="en">English</option>
-        <option value="hi">हिंदी</option>
-        <option value="kn">ಕನ್ನಡ</option>
-        <option value="mr">मराठी</option>
-        <option value="te">తెలుగు</option>
-      </select>
     </nav>
   );
 }
