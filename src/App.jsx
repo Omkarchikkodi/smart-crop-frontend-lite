@@ -23,12 +23,7 @@ function App() {
           <Body />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <div>
-            <h2>🌍 Hosangadi, IN</h2>
-            🌡️ 26.7°C
-            ☁️ overcast clouds
-            💧 Humidity: 78%
-          </div>
+          <WeatherCard />
           <CropRecommendation />
           <NpkRecommendation />
           <Alerts />
