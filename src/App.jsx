@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="flex flex-col min-h-screen bg-green-100">
       {/* Header */}
-      <Header lang={lang} setLang={setLang} />
+      <Header  />
 
       {/* Body */}
       <main className="flex-grow container mx-0">
@@ -23,21 +23,24 @@ function App() {
           <Body />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <WeatherCard lang={lang} />
-          <CropRecommendation lang={lang} />
-          <NpkRecommendation lang={lang} />
-          <Alerts lang={lang} />
-          <MarketIntelligence lang={lang} />
+          <div>
+            <h2>🌍 Hosangadi, IN</h2>
+            🌡️ 26.7°C
+            ☁️ overcast clouds
+            💧 Humidity: 78%
+          </div>
+          <CropRecommendation />
+          <NpkRecommendation />
+          <Alerts />
+          <MarketIntelligence/>
         </div>
         {/* need a div which is for voice assistance
         it should be a small sticky image at the right bottom */}
-        <div>
-          <Voice />
-        </div>
+        
       </main>
 
       {/* Footer */}
-      <Footer lang={lang} />
+      <Footer/>
     </div>
   );
 }
