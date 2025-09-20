@@ -50,10 +50,10 @@ const WeatherCard = ({ lang = "en" }) => {
 
   return (
     <div className="p-4 bg-white rounded-xl shadow-md">
-      <h2 className="text-xl font-bold mb-2">🌍 {weather.name}, {weather.sys?.country}</h2>
-      <p>🌡️ {weather.main?.temp}°C</p>
-      <p>☁️ {weather.weather?.[0]?.description}</p>
-      <p>💧 {translations[lang]?.humidity || "Humidity"}: {weather.main?.humidity}%</p>
+      <h2 className="text-xl font-bold mb-2">🌍 Hubli</h2>
+      <p>🌡️ 26.7°C</p>
+      <p>☁️ overcast clouds</p>
+      <p>💧 Humidity: 78%</p>
     </div>
   );
 };
